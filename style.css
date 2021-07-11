@@ -1,0 +1,79 @@
+
+    
+.navbar{
+    font-size: 20px;
+    background-color: white;
+    background-image: none;
+}
+.carousel {
+    background-color: rgb(50, 205, 109);
+    border-radius: 50px;
+
+}
+h1{
+    color: black;
+    font-weight: 500;
+}
+h4{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+.buy-button{
+    background-color: black;
+    color: white;
+    padding: 10px 15px ;
+    border-radius: 20px;
+}
+.see-all{
+    font-weight: normal;
+    font-size: 20px;
+    color: coral;
+}
+.carousel-item{
+    padding: 20px 40px ;
+}
+.container-3{
+    padding-top: 100px;
+}
+.card-body{
+    text-align: center;
+}
+.card{
+    border: none;
+    
+}
+.col{
+    box-shadow: 10px 10px  20px lightgray ;
+    background: none;
+}
+.row-cols-1{
+    padding: 50px 0px;
+}
+.card-title{
+    font-weight: bold;
+}
+.box-shadow{
+    box-shadow: 5px 5px 10px lightgray;
+    
+}
+.test{
+    background-color: lime;
+}
+.cat-2{
+    position: relative;
+    margin-top: 100px;
+}
+.cat{
+    box-shadow: 8px 8px 10px lightgray;
+    border-radius: 20px ;
+    margin: 30px;
+    padding: 30px;
+}
+.buttom-cont{
+    padding-bottom: 200px ;
+}
+.cat-buttom{
+    text-align: center;
+    font-weight: bold;
+}
